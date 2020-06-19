@@ -1,0 +1,65 @@
+body{
+  background-color: #1d1135;
+}
+
+
+@media (max-width: 800px) {
+  #port {
+      display: none;
+  }
+
+  }
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+
+
+}
+
+
+.para{
+  width:600px;
+  background-color: #0c164f;
+  color: white;
+  text-align: justify;
+}
+
+#heading{
+  align-self: center;
+  color: white;
+}
+
+#subhead{
+  color: white;
+  margin-top: 20px;
+}
+
+#port{
+  width: 400px;
+  height: 500px;
+  margin-top: -600px;
+  margin-left: 700px;
+}
+
+a{
+  padding: 20px;
+  color : white;
+}
+
+.row{
+  color: white;
+}
+
+#link1:hover{
+  color:yellow;
+}
+#link2:hover{
+  color:yellow;
+}
+#link3:hover{
+  color:yellow;
+}
+#link4:hover{
+  color:yellow;
+}
