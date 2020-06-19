@@ -1,0 +1,68 @@
+body{
+  background-color: #1d1135;
+}
+
+#heading{
+  margin-top: 10px;
+  align-self: center;
+  color: white;
+}
+
+.para{
+  margin-top: 20px;
+
+  background-color: #0c164f;
+  color: white;
+  text-align: justify;
+}
+
+table{
+  margin-top: 20px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+
+
+th, td{
+
+  text-align: center;
+  padding: 10px;
+  color: white;
+}
+
+tr: hover{
+  background-color:#1d1135;
+}
+
+img{
+  width: 100%;
+  height:auto;
+}
+
+#inp1{
+  width:60%;
+}
+
+a{
+  color: white;
+}
+
+.row{
+  margin-top: 15px;
+  margin-bottom: 10px;
+  color: white;
+}
+
+#link1:hover{
+  color:yellow;
+}
+#link2:hover{
+  color:yellow;
+}
+#link3:hover{
+  color:yellow;
+}
+#link4:hover{
+  color:yellow;
+}
